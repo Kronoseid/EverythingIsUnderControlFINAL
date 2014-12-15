@@ -1,31 +1,68 @@
 fileFormatVersion: 2
-guid: fececa3c8c6d8c74caad9d7c18d01b0d
+guid: 9f475023331639240b8e9f6126c7ec33
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: pCone1
     100002: pCube1
     100004: pCube2
-    100006: pPipe1
-    100008: pSphere1
-    100010: //RootNode
-    100012: transform1
-    100014: transform2
-    100016: transform3
-    100018: transform4
+    100006: pCube3
+    100008: pCube4
+    100010: pCube5
+    100012: polySurface1
+    100014: polySurface2
+    100016: polySurface3
+    100018: polySurface4
+    100020: polySurface5
+    100022: pPipe1
+    100024: pSphere1
+    100026: //RootNode
+    100028: transform1
+    100030: transform2
+    100032: transform3
+    100034: transform4
+    100036: transform5
+    100038: transform6
+    100040: transform7
     400000: pCone1
     400002: pCube1
     400004: pCube2
-    400006: pPipe1
-    400008: pSphere1
-    400010: //RootNode
-    400012: transform1
-    400014: transform2
-    400016: transform3
-    400018: transform4
-    2300000: pCube2
-    3300000: pCube2
-    4300000: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube5
+    400012: polySurface1
+    400014: polySurface2
+    400016: polySurface3
+    400018: polySurface4
+    400020: polySurface5
+    400022: pPipe1
+    400024: pSphere1
+    400026: //RootNode
+    400028: transform1
+    400030: transform2
+    400032: transform3
+    400034: transform4
+    400036: transform5
+    400038: transform6
+    400040: transform7
+    2300000: pCube5
+    2300002: polySurface1
+    2300004: polySurface2
+    2300006: polySurface3
+    2300008: polySurface4
+    2300010: polySurface5
+    3300000: pCube5
+    3300002: polySurface1
+    3300004: polySurface2
+    3300006: polySurface3
+    3300008: polySurface4
+    3300010: polySurface5
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface5
+    4300010: pCube5
     9500000: //RootNode
   materials:
     importMaterials: 1
